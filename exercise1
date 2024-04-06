@@ -1,0 +1,7 @@
+#ADDITION AND SUBRACTION OF TWO NUMBERS
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+sum=a+b
+difference=a-b
+print("sum of two number:",sum)
+print("difference of two number:",difference)
